@@ -1,5 +1,5 @@
-import math
 a=12
-b=4
-c=sum(a+b)
+b=3
+c=a+b
 print(c)
+
